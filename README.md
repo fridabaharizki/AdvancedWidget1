@@ -10,4 +10,4 @@
 ![advancedwidget3-basic](https://cloud.githubusercontent.com/assets/22098189/18804034/03438cf2-8220-11e6-943c-a6e3d1d1405a.png)
 ![advancedwidget3-coba nama](https://cloud.githubusercontent.com/assets/22098189/18804029/03376ff8-8220-11e6-9210-b5caef998993.png)
 
-**FRIDA BAHARIZKI / XIRPL4 / 16 / 4716 / SMK TELKOM MALANG
+**FRIDA BAHARIZKI / XIRPL4 / 16 / 4716 / SMK TELKOM MALANG**
